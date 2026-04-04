@@ -11,7 +11,9 @@
 
 <img width="960" height="564" alt="image" src="https://github.com/user-attachments/assets/f3fcab17-4d7d-4ab8-a1dd-cf57fb609811" />
 
+-Familiarised and practiced commands such as `pwd`, `ls` and `cd`.
 
+<img width="960" height="564" alt="image" src="https://github.com/user-attachments/assets/e5df0592-05e6-41c0-9e21-c490273ef7cd" />
 
-
+- pwd = show working directory, ls = list, cd = change directory, mkdir = make directory, touch = create file
 
