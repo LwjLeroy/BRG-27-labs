@@ -1,5 +1,5 @@
 # BRG-27-labs
-#Session 1
+# Session 1
 
 - Download Virtualbox and Ubuntu iso
 
